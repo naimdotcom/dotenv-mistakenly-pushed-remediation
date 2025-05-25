@@ -1,8 +1,5 @@
-# dotenv-mistakenly-pushed-remediation
+# How to Remove .env File from GitHub After Accidental Commit (Secure & Clean History)
 
-
-
-# How to Remove a Committed `.env` File from GitHub
 
 If you've accidentally committed a `.env` file to your GitHub repository, follow these steps to quickly remove it and secure any sensitive information.
 
